@@ -1,0 +1,13 @@
+bank_info_table -->
+	City
+	Country
+	Zipcode
+	Fax Number
+	Main Bank
+	
+lc_info_table -->
+	advising bank id
+	Preparer
+	Pk Preparer
+	PC Prep
+	PC Chker

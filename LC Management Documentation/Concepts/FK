@@ -1,0 +1,42 @@
+(First)
+
+ users
+	userID (PK)
+	name 
+	address
+
+
+posts
+	postid (PK)
+	userID (FK)
+	postData
+	
+	
+--------------------------------------------------------------------
+
+
+LC_Info
+	LC_ID (PK)
+	Currency
+	Amount
+	Bank_ID (FK)
+	Customer_ID (FK)
+	
+
+Bank
+	Bank_ID (PK)
+	Name
+	Address
+	City
+
+Customer
+	Customer ID (PK)
+	Name
+	Country
+	City
+	Phone
+	Email
+	
+	
+	
+	
